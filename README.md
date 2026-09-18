@@ -9,8 +9,8 @@
 
 ## About Me
 
-- Building AI-powered services through project-based experience in RAG, multi-agent systems, and backend development
-- Undergraduate researcher focusing on agentic AI, multi-agent collaboration, and intelligent decision-making
+- Undergraduate researcher interested in Reinforcement Learning, Agentic AI, and Multimodal AI
+- Currently researching continual multimodal adaptation and efficient VLM inference, with project experience in RAG and multi-agent systems
 
 ---
 
