@@ -56,11 +56,11 @@ React · TypeScript · Git · GitHub
 
 | Period | Project | Type | Description | Stack |
 |---|---|---|---|---|
-| 25.04 – 25.07 | **Environmental Justice Project** | Team | A data-driven policy analysis project combining chemical emission data with social vulnerability indicators to identify environmental inequality and evaluate intervention scenarios. | Python · Pandas · NumPy · Matplotlib |
-| 25.06 – 26.02 | **ChatToner** | Team | A multi-agent writing assistant that evaluates and refines documents according to organization-specific communication guidelines using RAG-based retrieval and structured quality analysis. | FastAPI · LangGraph · LangChain · FAISS · PostgreSQL |
-| 25.09 – 26.01 | **Shortpass** | Team | An AI-powered interview platform featuring adaptive interviews, multi-agent candidate evaluation, competency assessment, and conflict-triggered verification workflows. | FastAPI · LangGraph · PostgreSQL · AWS |
-| 26.05 – 26.06 | **Industrial Incident GraphRAG** | Individual | An agentic GraphRAG system for industrial incident investigation and root-cause analysis across manuals, operational logs, and historical incident records. | FastAPI · Neo4j · GraphRAG · Docker |
-| 26.06 – 26.08 | **Pillioo** | Team | A pharmacist-facing AI decision-support system featuring RAG-based evidence retrieval, evidence sufficiency assessment, workflow orchestration, and human-in-the-loop review. | FastAPI · PostgreSQL · Milvus · React · Docker |
+| 25.04 – 25.07 | **Environmental Justice Project** | Team | Data-driven analysis of environmental inequality using chemical emission and social vulnerability data. | Python · Pandas · NumPy · Matplotlib |
+| 25.06 – 26.02 | **ChatToner** | Team | Multi-agent writing assistant using RAG to evaluate and refine organization-specific documents. | FastAPI · LangGraph · LangChain · FAISS · PostgreSQL |
+| 25.09 – 26.01 | **Shortpass** | Team | AI interview platform with adaptive interviews and multi-agent candidate evaluation. | FastAPI · LangGraph · PostgreSQL · AWS |
+| 26.05 – 26.06 | **Industrial Incident GraphRAG** | Individual | Agentic GraphRAG system for industrial incident investigation and root-cause analysis. | FastAPI · Neo4j · GraphRAG · Docker |
+| 26.06 – 26.08 | **Pillioo** | Team | Pharmacist-facing AI workspace combining evidence-grounded retrieval, decision workflow orchestration. | FastAPI · PostgreSQL · Milvus · React · Docker |
 
 ---
 
@@ -74,10 +74,12 @@ React · TypeScript · Git · GitHub
 
 ---
 
-## Awards & Honors 
-- 🏆 **Grand Prize (Minister of Education Award)** — CO-SHOW DATA VENTURE Problem-Solving Challenge, Shortpass
-- 🏆 **Silver Award (KIPS President’s Award)** — ICT AWARD KOREA 2026, Pillioo
-- 🏆 **Top Excellence Award (KECO Chairman’s Award)** — Environmental Data Competition, Environmental Justice Project
-- 🏆 **Outstanding Project Selection** — Open Source Developer Competition, ChatToner
-- 🏆 **Top Excellence Award** — Self-Directed Career Development Project, ChatToner
+## Awards & Honors
+
+- 🏆 **Grand Prize (Minister of Education Award)** — CO-SHOW DATA VENTURE Problem-Solving Challenge, 2025
+- 🏆 **Silver Award (KIPS President’s Award)** — ICT AWARD KOREA, 2026
+- 🏆 **Top Excellence Award (KECO Chairman’s Award)** — Environmental Data Competition, 2025
+- 🏆 **Outstanding Project Selection** — Open Source Developer Competition, 2025
+- 🏆 **Top Excellence Award** — Self-Directed Career Development Project, 2025
+- 🏅 **Commendation from the Superintendent of Education of Chungcheongnam-do**, 2025
 - 🎓 **Presidential Science Scholarship Recipient**, 2026
