@@ -56,11 +56,11 @@ React · TypeScript · Git · GitHub
 
 | Period | Project | Type | Description | Stack |
 |---|---|---|---|---|
-| 25.04 – 25.07 | **Environmental Justice Project** | Team | Data-driven analysis of environmental inequality using chemical emission and social vulnerability data. | Python · Pandas · NumPy · Matplotlib |
-| 25.06 – 26.02 | **ChatToner** | Team | Multi-agent writing assistant using RAG to evaluate and refine organization-specific documents. | FastAPI · LangGraph · LangChain · FAISS · PostgreSQL |
-| 25.09 – 26.01 | **Shortpass** | Team | AI interview platform with adaptive interviews and multi-agent candidate evaluation. | FastAPI · LangGraph · PostgreSQL · AWS |
+| 26.06 – 26.08 | **Pillioo** | Team | Pharmacist-facing AI workspace combining evidence-grounded retrieval, decision workflow orchestration, sufficiency assessment, and human-in-the-loop review. | FastAPI · PostgreSQL · Milvus · React · Docker |
 | 26.05 – 26.06 | **Industrial Incident GraphRAG** | Individual | Agentic GraphRAG system for industrial incident investigation and root-cause analysis. | FastAPI · Neo4j · GraphRAG · Docker |
-| 26.06 – 26.08 | **Pillioo** | Team | Pharmacist-facing AI workspace combining evidence-grounded retrieval, decision workflow orchestration. | FastAPI · PostgreSQL · Milvus · React · Docker |
+| 25.09 – 26.01 | **Shortpass** | Team | AI interview platform with adaptive interviews and multi-agent candidate evaluation. | FastAPI · LangGraph · PostgreSQL · AWS |
+| 25.06 – 26.02 | **ChatToner** | Team | Multi-agent writing assistant using RAG to evaluate and refine organization-specific documents. | FastAPI · LangGraph · LangChain · FAISS · PostgreSQL |
+| 25.04 – 25.07 | **Environmental Justice Project** | Team | Data-driven analysis of environmental inequality using chemical emission and social vulnerability data. | Python · Pandas · NumPy · Matplotlib |
 
 ---
 
