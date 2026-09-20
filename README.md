@@ -52,7 +52,7 @@ React · TypeScript · Git · GitHub
 
 ---
 
-## Projects
+## Selected Projects
 
 | Period | Project | Type | Description | Stack |
 |---|---|---|---|---|
