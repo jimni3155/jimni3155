@@ -35,14 +35,14 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,postgres,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,spring,react,ts,postgres,docker,aws,git,github" />
 </p>
 
 **AI / ML**  
 Python · PyTorch · Hugging Face · LoRA · RAG · GraphRAG
 
 **AI Systems / Backend**  
-FastAPI · LangGraph · LangChain
+FastAPI · Spring · LangGraph · LangChain
 
 **Data / Infrastructure**  
 PostgreSQL · Neo4j · Milvus · Docker · AWS
